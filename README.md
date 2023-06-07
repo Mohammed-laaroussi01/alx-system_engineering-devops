@@ -1,1 +1,1 @@
- my second README 
+shell basics Readme
